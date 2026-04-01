@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"Pizza"},{"p":"<Unnamed>","l":"RabbitReceiver"},{"p":"<Unnamed>","l":"RabbitSender"},{"p":"<Unnamed>","l":"WebServiceServer"},{"l":"所有类和接口","u":"allclasses-index.html"}];updateSearchResults();
